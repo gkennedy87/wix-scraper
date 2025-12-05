@@ -1,0 +1,25 @@
+{
+  "name": "wix-scraper",
+  "version": "1.0.0",
+  "description": "A Node.js-based content scraper for extracting structured text, images, and metadata from Wix websites.",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "Wix",
+    "Scraper",
+    "Content Scraper",
+    "Web Scraper",
+    "Wix Web Scraper",
+    "Migration",
+    "SEO"
+  ],
+  "author": "Grant Kennedy",
+  "license": "MIT",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  }
+}

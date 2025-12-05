@@ -1,0 +1,34 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Output directories
+output/
+output/**
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*.local
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: lockfiles (if you want cross-PM compatibility)
+# package-lock.json
+# pnpm-lock.yaml
+# yarn.lock
